@@ -1,0 +1,5 @@
+nome:Guilherme Pedro Milani
+idade:16 
+série:3° ano do ensino médio
+livro:Pequeno Príncipe 
+filme preferidos: Os farofeiros
