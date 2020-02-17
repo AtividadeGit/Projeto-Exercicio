@@ -3,3 +3,5 @@ Idade: 16
 Série: 3
 Livro: Zac Power
 Filme: Indiana Jones 2
+Rede Social: Instagram
+Email: joaopedro030303@gmail.com
